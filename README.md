@@ -20,3 +20,6 @@ transition claim(bid: Bid) -> Prize {
 
 ### Links
 https://github.com/laishawadhwa/Aleo-Workshop/blob/main/README.md
+
+# Task Done
+
