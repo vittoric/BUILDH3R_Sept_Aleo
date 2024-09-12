@@ -22,4 +22,20 @@ transition claim(bid: Bid) -> Prize {
 https://github.com/laishawadhwa/Aleo-Workshop/blob/main/README.md
 
 # Task Done
+see ./src/main.leo
+
+...
+```leo
+
+    transition claim(bid: Bid) -> Prize {
+        assert_eq(bid.is_winner, true);
+        return Prize {
+            owner: bid.bidder,
+            amount: bid.amount,
+        };
+        
+    }
+```
+
+
 
