@@ -38,4 +38,17 @@ see ./src/main.leo
 ```
 
 
+Aleo Tasc : auction dapp 
+Wallet: aleo172ag4qhstvzn75rnjh7gucc8jzqdlkzf9jxy78gd9xz488tnasyqzhx6d3
+<img width="1181" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/ca63f0cc-52c5-41d7-bcf6-11c5873fbb9b">
+
+⌛ Deployment at1pfyygy9y2d0lqzfdlvtwmz3e283c4w7xpun6qtayrz6m5fdxuqxseyenhu ('token_mint.aleo')
+
+<img width="1357" alt="Fee transition" src="https://github.com/user-attachments/assets/063e7458-dee6-4670-b739-588619de9de2">
+
+
+
+
+
+
 
