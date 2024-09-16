@@ -38,7 +38,7 @@ see ./src/main.leo
 ```
 
 
-Aleo Tasc : auction dapp 
+Aleo Task : auction dapp 
 Wallet: aleo172ag4qhstvzn75rnjh7gucc8jzqdlkzf9jxy78gd9xz488tnasyqzhx6d3
 <img width="1181" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/ca63f0cc-52c5-41d7-bcf6-11c5873fbb9b">
 
