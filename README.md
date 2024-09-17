@@ -52,7 +52,7 @@ Transaction ID :
 Owner signature
 sign1srhflqgyuq0c34z9us44ujyt4w0etmqussgmat5ssjkg3j63eyq8rst735cth80wvxrdlkk7mjrardhlz36jk5tgkllzcrzam65fqq27xsxuc36rm2246086nt7atc3c7j6ftgqnthkp38n8366ank4vqkjevaddz3pj4axqeveser7xhqeefewqe9v09qa97pmw4ze8n38sgjs6p3w
 
-link
+link : https://testnet.aleoscan.io/program?id=token_mint.aleo
 
 <img width="1357" alt="Fee transition" src="https://github.com/user-attachments/assets/063e7458-dee6-4670-b739-588619de9de2">
 
