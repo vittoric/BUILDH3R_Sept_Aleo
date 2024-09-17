@@ -47,8 +47,16 @@ Wallet: aleo172ag4qhstvzn75rnjh7gucc8jzqdlkzf9jxy78gd9xz488tnasyqzhx6d3
 ⌛ Deployment at1pfyygy9y2d0lqzfdlvtwmz3e283c4w7xpun6qtayrz6m5fdxuqxseyenhu ('token_mint.aleo')
 
 Transaction ID :
-at1pfyygy9y2d0lqzfdlvtwmz3e283c4w7xpun6qtayrz6m5fdxuqxseyenhu
+``` at1pfyygy9y2d0lqzfdlvtwmz3e283c4w7xpun6qtayrz6m5fdxuqxseyenhu ```
+
+Owner signature
+sign1srhflqgyuq0c34z9us44ujyt4w0etmqussgmat5ssjkg3j63eyq8rst735cth80wvxrdlkk7mjrardhlz36jk5tgkllzcrzam65fqq27xsxuc36rm2246086nt7atc3c7j6ftgqnthkp38n8366ank4vqkjevaddz3pj4axqeveser7xhqeefewqe9v09qa97pmw4ze8n38sgjs6p3w
+
+link
 
 <img width="1357" alt="Fee transition" src="https://github.com/user-attachments/assets/063e7458-dee6-4670-b739-588619de9de2">
+
+
+<img width="1302" alt="imagen" src="https://github.com/user-attachments/assets/2279ab6e-110e-4ad6-aa78-2308e52cdd2b">
 
 
